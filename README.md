@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Didit, a Indonesian AI & IoT Enginerring 👋🏼:
-🛜 currently working on my own [webpage](https://my-portofolio-website-psi.vercel.app)<br>👨🏼‍🎓 studying media based Electrical Enginerring at University of Muhammadiyah Bandung 
+🛜 currently working on my own [webpage](https://my-portofolio-website-psi.vercel.app)<br>🤖 AI Automation Engineer
 
 
 # 💻 Tech Stack
